@@ -1,6 +1,6 @@
 ## Prazer, Gaby!
 
-👩🏼‍💻 Me Chamo Gabriely Santos Pereira, tenho 16 anos e moro no ABC Paulista. Atualmente estou cursando o 2° ano do ensino médio com técnico em informática para internet na Etec Professora Maria Cristina Medeiros.
+👩🏼‍💻 Me Chamo Gabriely Santos Pereira, tenho 17 anos e moro no ABC Paulista. Atualmente estou cursando o 3° ano do ensino médio com técnico em informática para internet na Etec Professora Maria Cristina Medeiros.
 
 ### 🛠️ Tecnologias:
 
